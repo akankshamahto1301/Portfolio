@@ -21,17 +21,17 @@ const About = () => {
       institution: "S.E.Rly. M.H.S School, Chakradharpur, Jharkhand",
     },
   ];
-  
+
   const skillsData = [
     { name: "JavaScript", percentage: 90 },
-    {name: "TypeScript", percentage: 80 },
+    { name: "TypeScript", percentage: 80 },
     { name: "React", percentage: 85 },
     { name: "Next.js", percentage: 80 },
-    {name: "HTML", percentage: 95},
+    { name: "HTML", percentage: 95 },
     { name: "Tailwind CSS", percentage: 90 },
     { name: "Node.js", percentage: 75 },
     { name: "MongoDB", percentage: 70 },
-    {name: "Python", percentage: 60},
+    { name: "Python", percentage: 60 },
   ];
 
   return (
@@ -49,7 +49,7 @@ const About = () => {
         </p>
         <p className="text-gray-400 text-lg mt-6 max-w-3xl mx-auto">
           The chance to apply my skills in a dynamic and innovative environment
-          excites me. I’m driven by curiosity and the desire to create
+          excites me. I'm driven by curiosity and the desire to create
           meaningful impact wherever I go.
         </p>
       </section>
