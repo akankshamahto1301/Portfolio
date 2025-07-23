@@ -43,7 +43,7 @@ const About = () => {
         </h1>
         <p className="text-gray-400 text-lg leading-relaxed max-w-3xl mx-auto">
           A self-motivated individual dedicated to my goals. I am passionate
-          about exploring new paths that challenge me to sharpen my skills. I’m
+          about exploring new paths that challenge me to sharpen my skills. I'm
           an avid learner, always enthusiastic to embrace new opportunities and
           grow through experience.
         </p>
