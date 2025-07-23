@@ -43,13 +43,14 @@ const About = () => {
         </h1>
         <p className="text-gray-400 text-lg leading-relaxed max-w-3xl mx-auto">
           A self-motivated individual dedicated to my goals. I am passionate
-          about exploring new paths that challenge me to sharpen my skills. I'm
-          an avid learner, always enthusiastic to embrace new opportunities and
-          grow through experience.
+          about exploring new paths that challenge me to sharpen my skills.
+          I&apos;m an avid learner, always enthusiastic to embrace new
+          opportunities and grow through experience.
         </p>
+
         <p className="text-gray-400 text-lg mt-6 max-w-3xl mx-auto">
           The chance to apply my skills in a dynamic and innovative environment
-          excites me. I'm driven by curiosity and the desire to create
+          excites me. I&apos;m driven by curiosity and the desire to create
           meaningful impact wherever I go.
         </p>
       </section>
@@ -101,7 +102,7 @@ const About = () => {
 
           <div className="text-center mb-12">
             <h3 className="text-2xl font-bold mb-4 text-white">
-              I'm an avid learner
+              I&apos;m an avid learner
             </h3>
             <p className="text-gray-400">
               I continuously enhance my skills to stay ahead in technology and
